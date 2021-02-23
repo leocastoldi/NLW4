@@ -1,0 +1,10 @@
+{
+  "name": "moveit",
+  "version": "moveit",
+  "description": "app move and focus",
+  "main": "index.js",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": false
+}
